@@ -1,0 +1,9 @@
+{
+  "name": "ink-monorepo",
+  "version": "0.0.0",
+  "description": "Monorepo for Ink related packages",
+  "main": "index.js",
+  "author": "Cameron Hunter <hello@cameronhunter.co.uk>",
+  "license": "MIT",
+  "private": true
+}
