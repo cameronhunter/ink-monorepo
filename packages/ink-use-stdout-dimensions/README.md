@@ -1,4 +1,4 @@
-# ink-use-stdout-dimensions [![Actions Status](https://github.com/cameronhunter/ink-use-stdout-dimensions/workflows/ink-use-stdout-dimensions/badge.svg)](https://github.com/cameronhunter/ink-use-stdout-dimensions/actions)
+# ink-use-stdout-dimensions
 
 > React hook for subscribing to stdout dimensions in [Ink](https://github.com/vadimdemedes/ink)
 
