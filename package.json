@@ -1,12 +1,19 @@
 {
+  "private": true,
   "name": "ink-monorepo",
   "version": "0.0.0",
   "description": "Monorepo for Ink related packages",
   "main": "index.js",
   "author": "Cameron Hunter <hello@cameronhunter.co.uk>",
   "license": "MIT",
-  "private": true,
+  "scripts": {
+    "build": "lerna run build",
+    "verify": "tsc --noEmit"
+  },
   "devDependencies": {
     "lerna": "^3.20.2"
-  }
+  },
+  "workspaces": [
+    "./packages/*"
+  ]
 }

@@ -1,0 +1,12 @@
+{
+  "include": ["packages/**/*.ts", "packages/**/*.tsx"],
+  "exclude": ["node_modules"],
+  "compilerOptions": {
+    "declaration": true,
+    "esModuleInterop": true,
+    "module": "commonjs",
+    "strict": true,
+    "target": "es2015",
+    "skipLibCheck": true
+  }
+}
