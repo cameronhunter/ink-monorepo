@@ -9,7 +9,8 @@
   ],
   "scripts": {
     "prebuild": "rm -rf ./build",
-    "build": "tsc --outDir ./build"
+    "build": "tsc --outDir ./build",
+    "demo": "ts-node --transpile-only ./demo/index.tsx"
   },
   "peerDependencies": {
     "ink": ">=2.0.0",
@@ -18,6 +19,7 @@
   "devDependencies": {
     "@types/react": "^16.9.17",
     "ink": "^2.6.0",
-    "react": "^16.12.0"
+    "react": "^16.12.0",
+    "ts-node": "^8.6.2"
   }
 }
