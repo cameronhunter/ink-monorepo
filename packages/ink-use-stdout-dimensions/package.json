@@ -2,6 +2,7 @@
   "name": "ink-use-stdout-dimensions",
   "version": "0.0.0",
   "license": "MIT",
+  "description": "React hook for subscribing to stdout dimensions in Ink",
   "main": "./build/index.js",
   "files": [
     "./build"
@@ -9,6 +10,10 @@
   "scripts": {
     "prebuild": "rm -rf ./build",
     "build": "tsc --outDir ./build"
+  },
+  "peerDependencies": {
+    "ink": ">=2.0.0",
+    "react": ">=16.0.0"
   },
   "devDependencies": {
     "@types/react": "^16.9.17",
