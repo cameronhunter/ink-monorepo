@@ -5,5 +5,8 @@
   "main": "index.js",
   "author": "Cameron Hunter <hello@cameronhunter.co.uk>",
   "license": "MIT",
-  "private": true
+  "private": true,
+  "devDependencies": {
+    "lerna": "^3.20.2"
+  }
 }
