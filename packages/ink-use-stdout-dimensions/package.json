@@ -1,6 +1,6 @@
 {
   "name": "ink-use-stdout-dimensions",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "license": "MIT",
   "description": "React hook for subscribing to stdout dimensions in Ink",
   "main": "./build/index.js",
