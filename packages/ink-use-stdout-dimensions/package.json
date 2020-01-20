@@ -21,5 +21,17 @@
     "ink": "^2.6.0",
     "react": "^16.12.0",
     "ts-node": "^8.6.2"
-  }
+  },
+  "keywords": [
+    "ink-hook",
+    "ink",
+    "hook",
+    "react",
+    "terminal",
+    "term",
+    "console",
+    "command-line",
+    "stdout",
+    "dimensions"
+  ]
 }
