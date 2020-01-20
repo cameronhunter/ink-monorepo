@@ -31,6 +31,8 @@ function Application() {
 render(<Application />);
 ```
 
+![Demo of ink-use-stdout-dimensions](demo.gif)
+
 ## API
 
 ### `useStdoutDimensions(): [number, number]`
