@@ -31,7 +31,7 @@ function Application() {
 render(<Application />);
 ```
 
-![Demo of ink-use-stdout-dimensions](demo.gif)
+![Demo of ink-use-stdout-dimensions](https://github.com/cameronhunter/ink-monorepo/blob/master/packages/ink-use-stdout-dimensions/demo.gif?raw=true)
 
 ## API
 

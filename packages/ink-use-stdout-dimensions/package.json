@@ -7,6 +7,11 @@
   "files": [
     "./build"
   ],
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:cameronhunter/ink-monorepo.git",
+    "directory": "packages/ink-use-stdout-dimensions"
+  },
   "scripts": {
     "prebuild": "rm -rf ./build",
     "build": "tsc --outDir ./build",
