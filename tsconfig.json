@@ -1,6 +1,6 @@
 {
   "include": ["packages/**/*.ts", "packages/**/*.tsx"],
-  "exclude": ["node_modules"],
+  "exclude": ["node_modules", "packages/**/demo/*.ts", "packages/**/demo/*.tsx"],
   "compilerOptions": {
     "declaration": true,
     "esModuleInterop": true,
