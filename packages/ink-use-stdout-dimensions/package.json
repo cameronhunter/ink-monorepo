@@ -4,9 +4,6 @@
   "license": "MIT",
   "description": "React hook for subscribing to stdout dimensions in Ink",
   "main": "./build/index.js",
-  "files": [
-    "./build/index.js"
-  ],
   "repository": {
     "type": "git",
     "url": "git@github.com:cameronhunter/ink-monorepo.git",
